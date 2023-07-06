@@ -71,7 +71,6 @@ nav > a {
     margin: 5px auto;
     font-size: 19px;
     line-height: 1.2;
-
 }
 
 
@@ -96,6 +95,18 @@ nav > a {
     margin: 0 auto;
 }
 .microservices > * {
+    text-align: center;
+}
+
+.diplomas{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 300px;
+    margin: 0 auto;
+}
+.diplomas > * {
     text-align: center;
 }
 
